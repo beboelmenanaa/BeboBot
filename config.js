@@ -24,7 +24,7 @@ global.titulowm2 = `☾︎ elmenana-bot ☽︎`
 global.igfg = '☾︎ elmenana-bot ☽︎';
 global.wait = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*insta:1x.mnani*';
 
-global.imagen1 = fs.readFileSync('./Menu2.jpg');
+global.imagen1 = fs.readFileSync('./Menu20.jpg');
 global.imagen2 = fs.readFileSync('./src/nuevobot.jpg');
 global.imagen3 = fs.readFileSync('./src/Pre Bot Publi.png');
 global.imagen4 = fs.readFileSync('./Menu.png');
