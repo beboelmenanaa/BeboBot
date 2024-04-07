@@ -22,7 +22,7 @@ global.wm = 'elmenana-bot';
 global.titulowm = '☾︎ elmenana-bot ☽︎';
 global.titulowm2 = `☾︎ elmenana-bot ☽︎`
 global.igfg = '☾︎ elmenana-bot ☽︎';
-global.wait = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*atom.bio/mego51_51*';
+global.wait = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*insta:1x.mnani*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
 global.imagen2 = fs.readFileSync('./src/nuevobot.jpg');
