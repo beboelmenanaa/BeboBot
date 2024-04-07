@@ -10,7 +10,7 @@ import moment from 'moment-timezone';
 global.botnumber = "*『🔥┇elmenana-bot』*"
 global.confirmCode = ""
 
-global.owner = [['201012531172', '𝙢,𝙚,𝙜,𝙤, ❦︎', true],
+global.owner = [['201012531172', 'b,e,b,o, ❦︎', true],
 ];
 
 global.suittag = ['201025663589'];
@@ -47,9 +47,9 @@ global.gt = '☾︎ elmenana-bot ☽︎';
 global.mysticbot = '☾︎ elmenana-bot ☽︎';
 global.md = 'atom.bio/elmenana51_51';
 global.mysticbot = 'atom.bio/elmenana51_51';
-global.waitt = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*atom.bio/mego51_51*';
-global.waittt = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*atom.bio/mego51_51*';
-global.waitttt = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*atom.bio/mego51_51*';
+global.waitt = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*insta:1x.mnani*';
+global.waittt = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*insta:1x.mnani*';
+global.waitttt = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*insta:1x.mnani*';
 global.nomorown = '201025663589';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
