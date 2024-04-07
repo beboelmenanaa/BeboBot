@@ -7,7 +7,7 @@ import fetch from 'node-fetch';
 import axios from 'axios';
 import moment from 'moment-timezone';
 
-global.botnumber = "*『🔥┇𝙼𝙴𝙶𝙾-𝙱𝙾𝚃』*"
+global.botnumber = "*『🔥┇elmenana-bot』*"
 global.confirmCode = ""
 
 global.owner = [['201012531172', '𝙢,𝙚,𝙜,𝙤, ❦︎', true],
@@ -16,12 +16,12 @@ global.owner = [['201012531172', '𝙢,𝙚,𝙜,𝙤, ❦︎', true],
 global.suittag = ['201025663589'];
 global.prems = ['201025663589'];
 
-global.packname = '☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎';
-global.author = '✩𝙼𝙴𝙶𝙾-𝙱𝙾𝚃☆';
-global.wm = '✯𝐌𝐄𝐆𝐎𝐁𝐎𝐓-𝐌𝐃✯';
-global.titulowm = '☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎';
-global.titulowm2 = `☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎`
-global.igfg = '☾︎ 𝙈𝙀𝙂𝙊𝘽𝙊𝙏-𝙈𝘿 ☽︎';
+global.packname = '☾︎ elmenana-bot ☽︎';
+global.author = '✩elmenana-bot☆';
+global.wm = 'elmenana-bot';
+global.titulowm = '☾︎ elmenana-bot ☽︎';
+global.titulowm2 = `☾︎ elmenana-bot ☽︎`
+global.igfg = '☾︎ elmenana-bot ☽︎';
 global.wait = '*[ ⏳ ] انتظر جاي التحميل تابع صاحب البوت*...\n\n*atom.bio/mego51_51*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
